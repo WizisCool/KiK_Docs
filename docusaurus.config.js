@@ -14,6 +14,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
+  themeConfig: {
+    // 其他主题配置项...
+    defaultMode: 'dark',
+  },
+
   presets: [
     [
       '@docusaurus/preset-classic',
