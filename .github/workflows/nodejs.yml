@@ -21,9 +21,9 @@ jobs:
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          ftp-server: ftp://docs.dew.cab
-          ftp-username: ${{ secrets.FTP_USER }}
-          ftp-password: ${{ secrets.FTP_PWD }}
+          server: ftp://docs.dew.cab
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PWD }}
           local-dir: build/
         env:
           CI: true
