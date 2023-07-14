@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'KiK',
   tagline: 'KiK is Cool',
-  url: 'https://docs.dew.cab',
+  url: 'https://docs.kik.cab',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
