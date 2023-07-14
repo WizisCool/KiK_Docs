@@ -15,8 +15,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   projectName: 'docusaurus', // Usually your repo name.
 
   themeConfig: {
-    // 其他主题配置项...
-    defaultMode: 'dark',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
   },
 
   presets: [
