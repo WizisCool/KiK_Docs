@@ -21,7 +21,8 @@ jobs:
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: docs.kik.cab
+          server: dew.cab
+          port: 2082
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PWD }}
           local-dir: build/
