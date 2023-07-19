@@ -10,7 +10,7 @@ description: US
 1. 在你成功登录KiK之后,在KiK界面的右下角有一个 `▼`  
      点击这个 `▼` 会打开Hanbot控制台,如下图所示   
 
-     ![Alt text](./US_Screenshare/auto.png)  
+     ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/auto.png)
 
 2. **通过选中这两个选择框即可开关这两个功能**
     :::tip

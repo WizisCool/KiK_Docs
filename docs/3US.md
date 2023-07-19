@@ -11,7 +11,7 @@ description: US
      会自动帮你下载**Hanbot x64**以及所有的脚本库  
      如果一切正常 则会提示 `Hanbot x64 部署成功` (如下图所示)  
 
-     ![Alt text](./US_Screenshare/Hanbotsucess.png)  
+     ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/Hanbotsucess.png)
 
 2. 此时返回到你的KiK文件夹,你的KiK目录结构应该如下图所示
     ```
@@ -19,7 +19,7 @@ description: US
     ├─KiK               <- KiK工作文件夹
     └─KiK.Loader.exe    <- KiK加载器(你的加载器可能不是这个名字)
     ```
-     ![Alt text](./US_Screenshare/file.png)  
+     ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/file.png)
 
 3. 此时进入到 `.\KiK` 文件夹内,你会见到如下的目录结构  
     ```
@@ -31,7 +31,7 @@ description: US
     ├─KiK.Json          <- KiK核心
     └─US.exe            <- **你需要把US或其它第三方缓存放在这里**
     ```
-     ![Alt text](./US_Screenshare/file2.png)
+     ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/file2.png)
 
 4. 其中 `league of legends` 文件夹即是 **Hanbot x64** 的 **工作目录**  
      你应该将US文件按照如图所示放在 `.\KiK` 目录下,注意不是 `league of legends` 内  
