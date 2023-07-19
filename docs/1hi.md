@@ -6,7 +6,7 @@ slug: /
 # hide_table_of_contents: false
 ---
 
-## 入门
+## 入门!
 如何开始使用KiK平台的说明。
 ### 下载
 :::tip 当前最新版本号:1003  
