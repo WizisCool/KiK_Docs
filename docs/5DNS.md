@@ -42,3 +42,4 @@ description: Loader
   - 1. [百度DNS](https://dudns.baidu.com/support/localdns/PC/index.html)
   - 2. [阿里DNS)](https://alidns.com/knowledge?type=SETTING_DOCS#akf13)
   - 3. [腾讯/DNSPOD](https://docs.dnspod.cn/public-dns/new-windows-public-dns/)
+  - 4. [114DNS](https://www.114dns.com/)
