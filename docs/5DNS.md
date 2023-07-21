@@ -29,7 +29,8 @@ description: Loader
 
      ![](https://alidns-com.oss-cn-zhangjiakou.aliyuncs.com/articles-detail-image/1599708873222-b8c84784-7274-40ee-b40a-453b95d73138.png)
 
-#### 如果依然无法正常下载KiK,说明你的电脑主要使用ipv6协议,请按照下面的设置添加ipv6的DNS设置
+
+### 如果依然无法正常下载KiK,说明你的电脑主要使用ipv6协议,请按照下面的设置添加ipv6的DNS设置
 
 1. 在网络连接属性窗口中选中“Internet 协议版本 6 (TCP/IPv6)”，然后点击“属性”。
      ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/%7BB3CBAD17-0282-4c46-A781-BA155E61B152%7D.png)
@@ -40,6 +41,6 @@ description: Loader
 
 ### 你也可以同时考虑以下的几个公共DNS
   - 1. [百度DNS](https://dudns.baidu.com/support/localdns/PC/index.html)
-  - 2. [阿里DNS)](https://alidns.com/knowledge?type=SETTING_DOCS#akf13)
+  - 2. [阿里DNS](https://alidns.com/knowledge?type=SETTING_DOCS#akf13)
   - 3. [腾讯/DNSPOD](https://docs.dnspod.cn/public-dns/new-windows-public-dns/)
   - 4. [114DNS](https://www.114dns.com/)
