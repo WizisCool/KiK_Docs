@@ -35,3 +35,10 @@ description: Loader
      ![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/%7BB3CBAD17-0282-4c46-A781-BA155E61B152%7D.png)
 2. 选择使用指定的DNS，在DNS服务器地址中输入```2400:3200::1``` 和 ```2400:3200:baba::1```，输入后确定退出即设置完成。
      ![](https://alidns-com.oss-cn-zhangjiakou.aliyuncs.com/articles-detail-image/1599708875537-811bc1be-84a8-4809-9096-30803157b70d.jpeg)
+
+
+
+### 你也可以同时考虑以下的几个公共DNS
+  - 1. [百度DNS](https://dudns.baidu.com/support/localdns/PC/index.html)
+  - 2. [阿里DNS)](https://alidns.com/knowledge?type=SETTING_DOCS#akf13)
+  - 3. [腾讯/DNSPOD](https://docs.dnspod.cn/public-dns/new-windows-public-dns/)
