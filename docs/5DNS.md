@@ -41,6 +41,6 @@ description: Loader
 
 ### 你也可以同时考虑以下的几个公共DNS
   - 1. [百度DNS](https://dudns.baidu.com/support/localdns/PC/index.html)
-  - 2. [阿里DNS](https://alidns.com/knowledge?type=SETTING_DOCS#akf13)
+  - 2. [阿里DNS](https://alidns.com/knowledge?type=SETTING_DOCS#user)
   - 3. [腾讯/DNSPOD](https://docs.dnspod.cn/public-dns/new-windows-public-dns/)
   - 4. [114DNS](https://www.114dns.com/)
