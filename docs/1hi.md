@@ -9,9 +9,9 @@ slug: /
 ## 入门
 如何开始使用KiK平台的说明。
 ### 下载
-:::tip 当前最新版本号:1004  
+:::tip 当前最新版本号:2000
 :::
-- 您可以随时点击[这里](./Download/KiK.Loader.zip)来下载最新的KiK装载程序。
+- 您可以随时点击[CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip),[海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip),来下载最新的KiK装载程序。
 
 :::caution
 > *请确保你的装载器是从[这里](./Download/KiK.Loader.zip)下载的,确保KiK加载器无任何蠕虫木马感染,否则会导致某些防封效果失效*    
