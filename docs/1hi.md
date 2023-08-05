@@ -11,10 +11,12 @@ slug: /
 ### 下载
 :::tip 当前最新版本号:2000
 :::
-- 您可以随时点击[CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip),[海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip),来下载最新的KiK装载程序。
+- 下载KiKLoader  
+- [CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
+- [海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)
 
 :::caution
-> *请确保你的装载器是从[这里](./Download/KiK.Loader.zip)下载的,确保KiK加载器无任何蠕虫木马感染,否则会导致某些防封效果失效*    
+> *请确保你的装载器是从上面下载的,确保KiK加载器无任何蠕虫木马感染,否则会导致某些防封效果失效*    
 >*你可以通过以下算法校验你的ZIP压缩包 *  
 md5: `62f60c1e7fcff94fa979e132ad548ecd`  
 sha256: `e7e8e1bf374dbfe3bb948bfd7761dfe461113bce1658097598e8f5b52093e6c5`
@@ -49,6 +51,5 @@ KiK的正常运行有一些要求。
 
 ### 下面是关于使用Hanbot x64的指南
   - 1. [如何使用US等第三方缓存](./3US)
-  - 2. [开启或关闭自动更新脚本/BOT缓存配置 (提升注入速度)](./4configautoupdate)
-  - 3. [Loader加载器闪退或Hanbot部署时闪退的解决办法](./5DNS)
+  - 2. [Loader加载器闪退或Hanbot部署时闪退的解决办法(修改DNS)](./4DNS)
 
