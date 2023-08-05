@@ -13,7 +13,7 @@ slug: /
 :::
 #### 下载KiK Loader
 - [CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
-  [海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)
+  [海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
     
   使用IDM等第三方多线程下载工具可能导致无法解析而无法下载
   请最好使用浏览器下载
