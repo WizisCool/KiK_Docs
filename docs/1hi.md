@@ -10,13 +10,11 @@ slug: /
 如何开始使用KiK平台的说明。
 ### 状态
 :::tip 状态
-当前状态: 正常使用,未被检测
-支持版本: 13.17.528.2266
+当前状态: 正常使用,未被检测  
+支持版本: 13.17.528.2266  
 :::
-### 下载
-:::tip 当前最新版本号:8031
-:::
-#### 下载KiK Loader
+### 下载  
+
 - [CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
 - [海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
      
