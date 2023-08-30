@@ -14,7 +14,7 @@ slug: /
 支持版本: 13.17.528.2266
 :::
 ### 下载
-:::tip 当前最新版本号:8000
+:::tip 当前最新版本号:8031
 :::
 #### 下载KiK Loader
 - [CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
