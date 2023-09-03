@@ -18,10 +18,10 @@ slug: /
 支持版本: 13.17.529.525  
 :::
 ### 下载  
-
-- [CN线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
-- [海外线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
-     
+  
+- [CN下载线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
+- [海外下载线路](https://github.cab/d/AliCloud/KiK/KiK.Loader.zip)  
+  
 - 解压密码: 1
 - 使用IDM等第三方多线程下载工具可能导致无法解析而无法下载,最好使用浏览器下载 
 
