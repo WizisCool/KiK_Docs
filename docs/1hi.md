@@ -8,9 +8,11 @@ slug: /
 
 ## 入门
 如何开始使用KiK平台的说明。  
+
 -------------------------  
-[Hanbot Database 数据库网站](https://db.hanbot.cc)  
-可以查询Hanbot各个英雄脚本胜率情况
+[Hanbot Database 数据库网站](https://db.hanbot.cc) | 可以查询Hanbot各个英雄脚本胜率情况  
+[Hanbot.cc门户网站](https://hanbot.cc) | Hanbot.cc官方站
+-------------------------  
 
 ### 状态
 :::tip 状态
