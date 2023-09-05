@@ -9,7 +9,7 @@ slug: /
 ## 入门
 如何开始使用KiK平台的说明。  
 -------------------------  
-[Hanbot Database 数据库网站](https://hanbot.cc)  
+[Hanbot Database 数据库网站](https://db.hanbot.cc)  
 可以查询Hanbot各个英雄脚本胜率情况
 
 ### 状态
@@ -19,9 +19,7 @@ slug: /
 :::
 ### 下载  
   
-- [CN下载线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)   
-  
-- 解压密码: 1
+- [CN下载线路](http://cn.github.cab/d/AliCloud/KiK/KiK.Loader.zip)  <- 解压密码: 1
 - 使用IDM等第三方多线程下载工具可能导致无法解析而无法下载,最好使用浏览器下载 
 
 :::caution
@@ -62,3 +60,5 @@ KiK的正常运行有一些要求。
   - 1. [如何使用US等第三方缓存](./3US)
   - 2. [Loader加载器闪退或Hanbot部署时闪退的解决办法(修改DNS)](./4DNS)
 
+## 开发者指南
+- [跳转至开发者API](./5DevAPI)

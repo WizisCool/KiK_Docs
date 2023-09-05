@@ -1,7 +1,7 @@
 ---
 title: Loader加载器或部署Hanbot时闪退问题的解决办法
 description: Loader
-
+sidebar_label: 如何设置DNS
 
 ---
 

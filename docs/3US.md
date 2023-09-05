@@ -1,14 +1,14 @@
 ---
 title: 使用US等第三方缓存工具
 description: US
-
+sidebar_label: 如何使用第三方缓存
 
 # hide_table_of_contents: false
 ---
 
 #### 此篇指南会告知你使用US等第三方缓存工具
 
-12. 找到你的KiK文件夹,你的KiK目录结构应该如下图所示
+1. 找到你的KiK文件夹,你的KiK目录结构应该如下图所示
     ```
     KiK
     ├─KiK               <- KiK工作文件夹
