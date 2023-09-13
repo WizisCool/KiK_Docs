@@ -45,4 +45,9 @@ sidebar_label: 开发者API
 ### 3.HanbotNeverDead API SDK文档
 - 如果你以前为Hanbot或者想成为Hanbot的开发者,那么SDK文档是必不可少的  
 - KiK可以为您提供一个安全的测试环境和完整的SDK文档
-- [KiK x Hanbot SDK Documentation (docs.hanbot.cc)](https://docs.hanbot.cc)
+- [KiK x Hanbot SDK Documentation (docs.hanbot.cc)](https://docs.hanbot.cc)  
+
+:::info
+如果你想为Hanbot开发脚本,可以联系你的上级与我取得联系  
+我会为你免费提供KiK订阅密钥与技术支持
+:::
