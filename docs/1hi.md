@@ -19,6 +19,9 @@ slug: /
 当前状态: 正常  
 支持版本: 13.18.530.4653  
 :::
+### 视频教程
+<iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7280607151024767540?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+
 ### 下载  
 
 - [下载线路 ①](https://github.cab/d/Onedrive/KiK.Loader.zip)
