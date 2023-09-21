@@ -20,7 +20,7 @@ slug: /
 支持版本: 13.18.530.4653  
 :::
 ### 视频教程
-<iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7280607151024767540?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+<video src="https://github.cab/d/Onedrive/Video/KiK_tutorial.mp4" controls="controls" width="800" height="500">您的浏览器不支持播放该视频！</video>
 
 ### 下载  
 
