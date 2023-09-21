@@ -20,7 +20,7 @@ slug: /
 支持版本: 13.18.530.4653  
 :::
 ### 视频教程
-<video src="https://github.cab/d/Onedrive/Video/KiK_tutorial.mp4" controls="controls" width="700" height="400">您的浏览器不支持播放该视频！</video>
+<video src="https://github.cab/d/PikPak/KiK_tutorial.mp4" controls="controls" width="700" height="400">您的浏览器不支持播放该视频！</video>
 
 ### 下载  
 
