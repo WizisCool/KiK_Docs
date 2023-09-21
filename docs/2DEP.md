@@ -6,6 +6,7 @@ description: DEP
 # hide_table_of_contents: false
 ---
 #### 如何添加DEP数据保护
+
 1. Windows+R键 打开 `运行` 对话框,并且键入
 ```
 SystemPropertiesAdvanced.exe

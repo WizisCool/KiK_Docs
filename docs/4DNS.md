@@ -8,8 +8,10 @@ sidebar_label: 如何设置DNS
 #### 此篇指南会告知你如何解决Loader加载器闪退
      这个问题通常是由于你的网络环境问题,无法连接至下载CDN分发服务器而导致的闪退问题
      你需要手动调整你的DNS设置,这里以阿里云公众DNS为例(你也可以尝试其它的DNS,例如腾讯云,114等)
+#### 视频教程  
+<video src="https://github.cab/d/PikPak/KiK_DNSsetting.mp4" controls="controls" width="700" height="400">您的浏览器不支持播放该视频！</video>  
 
-
+#### 文本教程
 1. 打开Windows 10系统控制面板，点击右上角的以图标方式显示，点击“网络和共享中心”选项。
      ![](https://alidns-com.oss-cn-zhangjiakou.aliyuncs.com/articles-detail-image/1599708871230-9dfe0dc5-5233-4d48-ad4d-f45188b54335.jpeg)
 
