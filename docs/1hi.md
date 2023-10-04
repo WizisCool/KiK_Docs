@@ -17,7 +17,7 @@ slug: /
 ### 状态
 :::tip 状态
 当前状态: 正常  
-支持版本: 13.19.533.1909  
+支持版本: 13.19.534.5972  
 :::
 ### 视频教程
 <video src="https://github.cab/d/Onedrive/Video/KiK_tutorial.mp4" controls="controls" width="700" height="400">您的浏览器不支持播放该视频！</video>
