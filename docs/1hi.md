@@ -13,6 +13,7 @@ slug: /
 [Hanbot Database 数据库网站](https://db.hanbot.cc) | 可以查询Hanbot各个英雄脚本胜率情况  
 [Hanbot.cc官方网站](https://hanbot.cc) | Hanbot.cc官方站  
 [KiK Official Seller Site](https://shop.kik.cab/) | KiK Official Seller Site
+[Telegram Channel](https://t.me/kik_bypass) | Offical Telegram Channel
 -------------------------  
 
 ### 购买  
