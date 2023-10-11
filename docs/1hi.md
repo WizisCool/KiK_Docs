@@ -76,6 +76,7 @@ KiK的正常运行有一些要求。
 ### 下面是关于使用Hanbot x64的指南
   - 1. [如何使用第三方缓存](./3botconfig)
   - 2. [Loader加载器闪退或Hanbot部署时闪退的解决办法(修改DNS)](./4DNS)
+  - 3. [如何设置核心Tick](./5CoreTick.md)
 
 ## 开发者指南
 - [开发者API](./99DevAPI)
