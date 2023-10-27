@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [🏠 HOME](/)
+* [🏠 HOME](/home)
 * [📚 Tutorial](/classroom)
