@@ -7,18 +7,18 @@
 ```
 SystemPropertiesAdvanced.exe
 ```
-![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP01.png ':size=60%')  
+![](https://fastly.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP01.png ':size=60%')  
   
 2. 点击```确认```或按下 <kbd>&#8629;</kbd> Enter 
 你会看到这个窗口弹出,点击```设置```按钮  
-![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP02.png ':size=60%')  
+![](https://fastly.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP02.png ':size=60%')  
   
 3. 查看上方的选项卡,切换到 数据执行保护 选项卡
 4. 
     * 选中 为除下列选定程序之外的所有程序和服务启用DEP,  
     * 点击 添加 按钮  
     * 选择 KiK加载器 的EXE程序后点击 确定  
-![](https://cdn.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP03.png ':size=60%')  
+![](https://fastly.jsdelivr.net/gh/WIzisCool/PicGo_Res@master/img/DEP03.png ':size=60%')  
 
 ?> 参考文字教程: [DELL-如何添加数据保护](https://www.dell.com/support/kbdoc/zh-cn/000147101/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%B0%E6%8D%AE%E6%89%A7%E8%A1%8C%E4%BF%9D%E6%8A%A4-dep)  
   
