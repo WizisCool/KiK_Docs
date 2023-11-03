@@ -1,6 +1,6 @@
 ## 📣 Overview
 
-[KiKBypass](https://https://kik.cab) is a bypass tool for League of Legends (Riot)
+[KiKBypass](https://kik.cab) is a bypass tool for League of Legends (Riot)
 Currently, this project only runs under the [Hanbot](https://hanbot.cc) platform, ensuring safe gameplay with Hanbot.
 
 ## ✨ Features

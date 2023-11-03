@@ -1,6 +1,6 @@
 ## 📣 概况
 
-[KiKBypass](https://https://kik.cab) 是一个由英雄联盟(Riot)的旁路工具  
+[KiKBypass](https:///kik.cab) 是一个由英雄联盟(Riot)的旁路工具  
 当前此项目仅在[Hanbot](https://hanbot.cc)平台下运行,可以保证你安全的游玩Hanbot
 
 ## ✨ 特色
