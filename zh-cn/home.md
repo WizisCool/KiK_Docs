@@ -21,7 +21,7 @@
 
 |  🖥️ 线路   | 🔗 地址  | ⛓️ md5  | 🔑 解压密码  |
 |  :----:  | :----:  | :----:  | :----:  |
-| 🌏 中国  | [点击下载](https://jihulab.com/WizisCool/KiKHanbot/uploads/fce19af56f606abba0957cec030de6ed/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
+| 🌏 中国  | [点击下载](https://jihulab.com/WizisCool/KiKHanbot/uploads/0ffed365d8a7cb468bff1e32431810d0/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
 | 🌐 境外  | [点击下载](https://github.com/WizisCool/KiKHanbot/releases/download/KiK.Loader/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
 
 

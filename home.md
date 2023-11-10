@@ -21,7 +21,7 @@ Currently, this project only runs under the [Hanbot](https://hanbot.cc) platform
 |  🖥️ Route  | 🔗 Link  | ⛓️ md5  | 🔑 Extraction Password  |
 |  :----:  | :----:  | :----:  | :----:  |
 | 🌐 Global  | [Download](https://github.com/WizisCool/KiKHanbot/releases/download/KiK.Loader/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
-| 🌏 China  | [Download](https://jihulab.com/WizisCool/KiKHanbot/uploads/fce19af56f606abba0957cec030de6ed/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
+| 🌏 China  | [Download](https://jihulab.com/WizisCool/KiKHanbot/uploads/0ffed365d8a7cb468bff1e32431810d0/KiKLoader.zip) | 651b2535136386cf640c9efd8e33629c | ```1```  |
 
 ## 🧾 Basic Usage Guide
 * The loader should be extracted to a simple path, such as ```C:\KiK\``` or ```D:\KiK```
