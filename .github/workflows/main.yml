@@ -14,4 +14,3 @@ jobs:
         server: 13.72.101.71
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PWD }}
-        port: 2082
